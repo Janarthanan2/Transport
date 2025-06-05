@@ -12,7 +12,7 @@ body {
     margin: 0 !important;
     padding: 0;
     background-color: #fff !important;
-    background: url('../img/logo-bg.jpg') no-repeat;
+    background: url('./image/logo-all.png') no-repeat;
     background-position: center;
     height: 100vh;
 }
